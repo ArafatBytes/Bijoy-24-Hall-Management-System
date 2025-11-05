@@ -544,7 +544,7 @@ const RoomLayout = ({
             <p className="text-sm text-info">
               💡 <strong>Instructions:</strong> Click on any available bed
               (green) to select it. Occupied beds (red) show the current
-              student's ID and cannot be selected.
+              student&apos;s ID and cannot be selected.
             </p>
           </div>
         </motion.div>
