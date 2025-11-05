@@ -1,0 +1,85 @@
+# ========================================
+# FRONTEND (Next.js)
+# ========================================
+
+# Environment variables (contains sensitive API keys and secrets)
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+frontend/.env.*.local
+
+# Dependencies
+frontend/node_modules/
+frontend/package-lock.json
+
+# Next.js build output
+frontend/.next/
+frontend/out/
+
+# Production build
+frontend/build/
+
+# Debug logs
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# IDE
+frontend/.vscode/
+frontend/.idea/
+
+# OS files
+frontend/.DS_Store
+frontend/Thumbs.db
+
+# ========================================
+# BACKEND (ASP.NET Core)
+# ========================================
+
+# appsettings.json contains sensitive data (DB credentials, JWT keys, etc.)
+backend/appsettings.json
+backend/appsettings.Development.json
+backend/appsettings.Production.json
+
+# Build results
+backend/bin/
+backend/obj/
+
+# Visual Studio user-specific files
+backend/.vs/
+backend/*.user
+backend/*.suo
+backend/*.userosscache
+backend/*.sln.docstates
+
+# Publish profiles (contains deployment credentials)
+backend/Properties/PublishProfiles/*.pubxml.user
+
+# SQL migration scripts (if generated)
+backend/migration.sql
+backend/*.sql
+
+# User-specific files
+backend/HallManagementSystem.csproj.user
+
+# ========================================
+# ROOT LEVEL
+# ========================================
+
+# Deployment guides (optional - remove if you want to keep them)
+# MONSTERASP_DEPLOYMENT.md
+# DEPLOYMENT.md
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
