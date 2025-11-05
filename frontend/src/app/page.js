@@ -318,9 +318,9 @@ export default function Home() {
               </h3>
               <p className="text-base-content/80 mb-6 leading-relaxed">
                 Located in the heart of PSTU campus in Dumki, Patuakhali, Bijoy
-                24 Hall serves as more than just accommodation. It's a community
-                where future scientists, engineers, and technologists build
-                lifelong friendships and memories. The hall maintains the
+                24 Hall serves as more than just accommodation. It&apos;s a
+                community where future scientists, engineers, and technologists
+                build lifelong friendships and memories. The hall maintains the
                 highest standards of safety, cleanliness, and academic
                 environment.
               </p>

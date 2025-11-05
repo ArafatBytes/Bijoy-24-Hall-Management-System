@@ -1329,7 +1329,7 @@ export default function RoomManagement() {
                 No Rooms Found
               </h3>
               <p className="text-base-content/60 mb-4">
-                No rooms match your search criteria "{searchTerm}"
+                No rooms match your search criteria &quot;{searchTerm}&quot;
               </p>
               <button
                 onClick={() => setSearchTerm("")}

@@ -593,8 +593,8 @@ export default function StudentRoom() {
                           ) && (
                             <div className="text-center mt-4">
                               <p className="text-sm text-primary bg-primary/10 px-4 py-2 rounded-lg inline-block">
-                                💡 Click on your roommates' photos to view their
-                                contact information
+                                💡 Click on your roommates&apos; photos to view
+                                their contact information
                               </p>
                             </div>
                           )}

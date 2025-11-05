@@ -1356,8 +1356,8 @@ export default function RoomRequestsManagement() {
 
                     <div className="text-center py-4">
                       <p className="text-base-content/70">
-                        Room {adminSelectedRoom} selected. Click "View Room
-                        Layout" to select a bed.
+                        Room {adminSelectedRoom} selected. Click &quot;View Room
+                        Layout&quot; to select a bed.
                       </p>
                       <button
                         onClick={() => setShowAdminRoomLayout(true)}

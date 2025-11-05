@@ -509,7 +509,9 @@ export default function AddToGallery() {
               <p>
                 • Only appropriate and hall-related content will be approved
               </p>
-              <p>• You'll receive an email notification about the status</p>
+              <p>
+                • You&apos;ll receive an email notification about the status
+              </p>
               <p>
                 • Approved images will be featured in our official hall gallery
               </p>
@@ -567,7 +569,7 @@ export default function AddToGallery() {
                     No Gallery Submissions
                   </h3>
                   <p className="text-base-content/70">
-                    You haven't submitted any gallery requests yet.
+                    You haven&apos;t submitted any gallery requests yet.
                   </p>
                 </div>
               ) : (

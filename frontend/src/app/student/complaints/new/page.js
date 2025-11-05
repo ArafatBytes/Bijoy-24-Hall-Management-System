@@ -366,8 +366,8 @@ export default function NewComplaint() {
                 • Your complaint will be reviewed by the hall administration
               </p>
               <p>
-                • You'll receive an email notification once your complaint is
-                resolved
+                • You&apos;ll receive an email notification once your complaint
+                is resolved
               </p>
               <p>
                 • You can track your complaint status in your complaint history
