@@ -200,8 +200,8 @@ export default function ComplaintHistory() {
               <div className="text-6xl mb-4">📝</div>
               <h2 className="text-2xl font-bold mb-4">No Complaints Found</h2>
               <p className="text-base-content/70 mb-6">
-                You haven't submitted any complaints yet. If you have any issues
-                or concerns, feel free to submit a complaint.
+                You haven&apos;t submitted any complaints yet. If you have any
+                issues or concerns, feel free to submit a complaint.
               </p>
               <Link href="/student/complaints/new" className="btn btn-primary">
                 Submit Your First Complaint
